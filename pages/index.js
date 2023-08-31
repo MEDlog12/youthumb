@@ -42,6 +42,8 @@ const Index = () => {
         <p className="text-gray-600">
           Download high-quality thumbnails from YouTube videos.
         </p>
+
+    <meta name="msvalidate.01" content="ACFE3F33B1FAF57E2EA830C45E5DF885" />
       </header>
       <div className="text-center">
         <input
