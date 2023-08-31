@@ -23,8 +23,6 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-
-              <meta name="msvalidate.01" content="ACFE3F33B1FAF57E2EA830C45E5DF885" />
         </Head>
         <body>
           <Main />
